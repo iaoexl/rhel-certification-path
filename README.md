@@ -37,22 +37,22 @@
 
 <p align="center">
   <a href="https://gitcode.com/iaoexl/rhel-certification-path.git" target="_blank" rel="noopener">
-    <img src="images/favicon_gitcode.ico" width="18" height="18" alt="GitCode">&nbsp;GitCode
+    <img src="images/6e5e33151cf7d4b69bc75e984af332d9.png" width="18" height="18" alt="GitCode">&nbsp;GitCode
   </a>
   <span style="color: #999;">&nbsp;/&nbsp;</span>
   <a href="https://atomgit.com/iaoexl/rhel-certification-path.git" target="_blank" rel="noopener">&nbsp;AtomGit
   </a>
   &nbsp;&nbsp;
   <a href="https://cnb.cool/iaoexl/rhel-certification-path.git" target="_blank" rel="noopener">
-    <img src="images/favicon_cnb.ico" width="18" height="18" alt="腾讯云 CNB">&nbsp;腾讯云 CNB
+    <img src="images/204dc4444f152572ee9977c2ee15b1e4.png" width="18" height="18" alt="腾讯云 CNB">&nbsp;腾讯云 CNB
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/iaoexl/rhel-certification-path.git" target="_blank" rel="noopener">
-    <img src="images/favicon_github.png" width="18" height="18" alt="GitHub">&nbsp;GitHub
+    <img src="images/c31718c62908f5248d95dff0fe0c96f7.png" width="18" height="18" alt="GitHub">&nbsp;GitHub
   </a>
   &nbsp;&nbsp;
   <a href="https://gitee.com/iaoexl/rhel-certification-path.git" target="_blank" rel="noopener">
-    <img src="images/favicon_gitee.ico" width="18" height="18" alt="Gitee">&nbsp;Gitee
+    <img src="images/2765d9743c9a0ddfdf7a9bd9df4cab82.png" width="18" height="18" alt="Gitee">&nbsp;Gitee
   </a>
 </p>
 
